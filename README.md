@@ -37,7 +37,7 @@ worldCapital/
 │ └── css / js / images
 
 yaml
-Copy code
+Copy Code
 
 ---
 
